@@ -1,0 +1,14 @@
+{
+  "showLineNumber": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00. Inbox",
+  "attachmentFolderPath": "90. Settings/92. Attachments",
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}
